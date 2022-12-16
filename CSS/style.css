@@ -1,0 +1,73 @@
+body{
+   background-color: white; 
+   font-family: "lato', sans-serif";
+}
+
+header{
+    background-color: white;
+    height: 288px;
+    max-height: 288px;
+    background-position: center ;
+}
+
+img .Logo{
+    display: block;
+    margin-left: 0;
+    margin-right: 0;
+    width: 25%;
+}
+
+.donatebutton{
+    font-size: 15;
+    font-weight: bold;
+    color: white;
+    background-color: lightgreen;
+    text-align: right;
+    height: 25px;
+    width: 100px;
+}
+
+.searchbutton{
+    font-size: 15;
+    font-weight: bold;
+    color: white;
+    background-color: lightgreen;
+    text-align: right;
+    height: 25px;
+    width: 100px;
+}
+
+.navbar{
+    background-color: white;
+    height: 50px;
+    max-height: 50px;
+}
+
+.navbarbuttons{
+    font-size: 20;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+}
+
+.leftsidenavbar{
+    background-color: white;
+    height: 1000px;
+}
+
+.missonstatement{
+    background-color:lightgreen;
+    font-size: 20;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    height: 100px;
+    width: 100px;
+}
+
+img{
+    background-color: white;
+    height: 500px;
+    max-height: 500px;
+    background-position: center;
+}
